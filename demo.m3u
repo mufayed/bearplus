@@ -1,6 +1,6 @@
 #EXTM3U
 # Bear+ review demo playlist. Public-domain and Creative Commons videos plus public test streams only.
-# Sources, licences and credits: README.md next to this file. Links checked 2026-10-24.
+# Sources, licences and credits: CREDITS.md next to this file. Links checked 2026-10-24.
 
 # Live Test Signal (Unified Streaming) ; Public demo live stream offered by Unified Streaming for player testing; content is a machine-generated test pattern (colour bars + clock) ; Stream: Unified Streaming demo (demo.unified-streaming.com). Channel icon: SMPTE colour bars, Wikimedia Commons, public domain. ; https://demo.unified-streaming.com/k8s/live/stable/
 #EXTINF:-1 tvg-id="" tvg-name="Live Test Signal (Unified Streaming)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/500px-SMPTE_Color_Bars.svg.png" group-title="Live · Test Signals",Live Test Signal (Unified Streaming)
