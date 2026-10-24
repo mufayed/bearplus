@@ -1,0 +1,99 @@
+#EXTM3U
+# Bear+ review demo playlist. Public-domain and Creative Commons videos plus public test streams only.
+# Sources, licences and credits: README.md next to this file. Links checked 2026-10-24.
+
+# Live Test Signal (Unified Streaming) ; Public demo live stream offered by Unified Streaming for player testing; content is a machine-generated test pattern (colour bars + clock) ; Stream: Unified Streaming demo (demo.unified-streaming.com). Channel icon: SMPTE colour bars, Wikimedia Commons, public domain. ; https://demo.unified-streaming.com/k8s/live/stable/
+#EXTINF:-1 tvg-id="" tvg-name="Live Test Signal (Unified Streaming)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/500px-SMPTE_Color_Bars.svg.png" group-title="Live · Test Signals",Live Test Signal (Unified Streaming)
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+
+# Low-Latency Test Signal (Unified Streaming) ; Public demo live stream offered by Unified Streaming for player testing; machine-generated test pattern (colour bars + clock) ; Stream: Unified Streaming demo (demo.unified-streaming.com). ; https://demo.unified-streaming.com/k8s/low-latency/stable/
+#EXTINF:-1 tvg-id="" tvg-name="Low-Latency Test Signal (Unified Streaming)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/500px-SMPTE_Color_Bars.svg.png" group-title="Live · Test Signals",Low-Latency Test Signal (Unified Streaming)
+https://demo.unified-streaming.com/k8s/low-latency/stable/channel1/channel1.isml/.m3u8
+
+# NASA+ · Artemis II: Meet the Astronauts ; Official NASA video on NASA's own HLS host (NASA+) ; Video: NASA (plus.nasa.gov). ; https://plus.nasa.gov/video/artemis-ii-meet-the-astronauts-who-will-fly-around-the-moon-official-nasa-video/
+#EXTINF:-1 tvg-id="" tvg-name="NASA+ · Artemis II: Meet the Astronauts" tvg-logo="https://plus.nasa.gov/wp-content/uploads/2023/11/original-1.jpeg?w=976" group-title="Live · NASA+ (on demand)",NASA+ · Artemis II: Meet the Astronauts
+https://nasaplus.akamaized.net/output/15681.m3u8
+
+# Tears of Steel (2012) ; CC BY 3.0 (film) ; (CC) Blender Foundation | mango.blender.org ; https://studio.blender.org/projects/tears-of-steel/
+#EXTINF:-1 tvg-id="" tvg-name="Tears of Steel (2012)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/500px-Tos-poster.png" group-title="Movies · Open Films",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+
+# Elephants Dream (2006) ; CC BY 2.5 ; (c) 2006 Blender Foundation / Netherlands Media Art Institute | orange.blender.org ; https://studio.blender.org/projects/elephants-dream/
+#EXTINF:-1 tvg-id="" tvg-name="Elephants Dream (2006)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Elephants_Dream_%282006%29.webm/500px--Elephants_Dream_%282006%29.webm.jpg" group-title="Movies · Open Films",Elephants Dream (2006)
+https://download.blender.org/ED/elephantsdream-1024-h264-st-aac.mov
+
+# Big Buck Bunny (2008) ; CC BY 3.0 ; (c) copyright 2008, Blender Foundation | www.bigbuckbunny.org ; https://commons.wikimedia.org/wiki/File:Big_Buck_Bunny_4K.webm
+#EXTINF:-1 tvg-id="" tvg-name="Big Buck Bunny (2008)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/500px-Big_buck_bunny_poster_big.jpg" group-title="Movies · Open Films",Big Buck Bunny (2008)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.1080p.vp9.webm
+
+# Sintel (2010) ; CC BY 3.0 ; (c) copyright Blender Foundation | durian.blender.org ; https://commons.wikimedia.org/wiki/File:Sintel_movie_4K.webm
+#EXTINF:-1 tvg-id="" tvg-name="Sintel (2010)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/500px-Sintel_poster.jpg" group-title="Movies · Open Films",Sintel (2010)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f1/Sintel_movie_4K.webm/Sintel_movie_4K.webm.1080p.vp9.webm
+
+# Spring (2019) ; CC BY 4.0 ; Andy Goralczyk / Blender Foundation | studio.blender.org/films/spring ; https://commons.wikimedia.org/wiki/File:Spring_-_Blender_Open_Movie.webm
+#EXTINF:-1 tvg-id="" tvg-name="Spring (2019)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Spring2019AlphaPosterBlender.jpg/500px-Spring2019AlphaPosterBlender.jpg" group-title="Movies · Open Films",Spring (2019)
+https://upload.wikimedia.org/wikipedia/commons/a/a5/Spring_-_Blender_Open_Movie.webm
+
+# Coffee Run (2020) ; CC BY 4.0 ; Blender Studio / Blender Foundation | studio.blender.org ; https://commons.wikimedia.org/wiki/File:Coffee_Run_-_Blender_Open_Movie-full_movie.webm
+#EXTINF:-1 tvg-id="" tvg-name="Coffee Run (2020)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Coffee_Run-movie_poster.png/500px-Coffee_Run-movie_poster.png" group-title="Movies · Open Films",Coffee Run (2020)
+https://upload.wikimedia.org/wikipedia/commons/3/3f/Coffee_Run_-_Blender_Open_Movie-full_movie.webm
+
+# A Trip to the Moon (1902) ; Public domain (1902; Georges Méliès died 1938) ; Georges Méliès ; https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm
+#EXTINF:-1 tvg-id="" tvg-name="A Trip to the Moon (1902)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Voyage_dans_la_Lune_%281902%29.webm/500px--Le_Voyage_dans_la_Lune_%281902%29.webm.jpg" group-title="Movies · Classics",A Trip to the Moon (1902)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Le_Voyage_dans_la_Lune_%281902%29.webm/Le_Voyage_dans_la_Lune_%281902%29.webm.1080p.vp9.webm
+
+# The Great Train Robbery (1903) ; Public domain (1903, Edison; copy from the Library of Congress) ; Edwin S. Porter / Edison Manufacturing Co. ; https://commons.wikimedia.org/wiki/File:The_Great_Train_Robbery_(1903).webm
+#EXTINF:-1 tvg-id="" tvg-name="The Great Train Robbery (1903)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/The_Great_Train_Robbery_%281903%29.webm/500px--The_Great_Train_Robbery_%281903%29.webm.jpg" group-title="Movies · Classics",The Great Train Robbery (1903)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/The_Great_Train_Robbery_%281903%29.webm/The_Great_Train_Robbery_%281903%29.webm.1080p.vp9.webm
+
+# Sherlock Jr. (1924) ; Public domain in the US (published 1924) ; Buster Keaton ; https://commons.wikimedia.org/wiki/File:Sherlock_Jr._(1924).webm
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Jr. (1924)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sherlock_jr_poster.jpg/500px-Sherlock_jr_poster.jpg" group-title="Movies · Classics",Sherlock Jr. (1924)
+https://upload.wikimedia.org/wikipedia/commons/9/95/Sherlock_Jr._%281924%29.webm
+
+# The General (1926) ; Public domain in the US (published 1926) ; Buster Keaton, Clyde Bruckman ; https://commons.wikimedia.org/wiki/File:The_General_(1926).webm
+#EXTINF:-1 tvg-id="" tvg-name="The General (1926)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_General_%281926%29_-_Movie_Poster_2.png/500px-The_General_%281926%29_-_Movie_Poster_2.png" group-title="Movies · Classics",The General (1926)
+https://upload.wikimedia.org/wikipedia/commons/e/ee/The_General_%281926%29.webm
+
+# His Girl Friday (1940) ; Public domain in the US: copyright not renewed (Commons tag PD-US-not renewed); the source play The Front Page (1928) is also public domain in the US ; Howard Hawks / Columbia Pictures ; https://commons.wikimedia.org/wiki/File:His_Girl_Friday_(1940)_by_Howard_Hawks.webm
+#EXTINF:-1 tvg-id="" tvg-name="His Girl Friday (1940)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/His_Girl_Friday_%281940_poster%29.jpg/500px-His_Girl_Friday_%281940_poster%29.jpg" group-title="Movies · Classics",His Girl Friday (1940)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/His_Girl_Friday_%281940%29_by_Howard_Hawks.webm/His_Girl_Friday_%281940%29_by_Howard_Hawks.webm.1080p.vp9.webm
+
+# Eagle Has Landed: The Flight of Apollo 11 (1969) ; NASA film HQ-194 (1969), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/KSC-19690716-MH-NAS01-0001-The_Flight_of_Apollo_11_The_Eagle_Has_Landed_HS_from_Film_JSC-DVC_1928
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Has Landed: The Flight of Apollo 11 (1969)" tvg-logo="https://images-assets.nasa.gov/video/KSC-19690716-MH-NAS01-0001-The_Flight_of_Apollo_11_The_Eagle_Has_Landed_HS_from_Film_JSC-DVC_1928/KSC-19690716-MH-NAS01-0001-The_Flight_of_Apollo_11_The_Eagle_Has_Landed_HS_from_Film_JSC-DVC_1928~medium_5.jpg" group-title="Movies · NASA",Eagle Has Landed: The Flight of Apollo 11 (1969)
+https://images-assets.nasa.gov/video/KSC-19690716-MH-NAS01-0001-The_Flight_of_Apollo_11_The_Eagle_Has_Landed_HS_from_Film_JSC-DVC_1928/KSC-19690716-MH-NAS01-0001-The_Flight_of_Apollo_11_The_Eagle_Has_Landed_HS_from_Film_JSC-DVC_1928~orig.mp4
+
+# Apollo 12: Pinpoint for Science (1969) ; NASA film HQ-197 (1969), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/KSC-1969-MH-NAS01-0001-Apollo_12_Pinpoint_for_Science-B_425
+#EXTINF:-1 tvg-id="" tvg-name="Apollo 12: Pinpoint for Science (1969)" tvg-logo="https://images-assets.nasa.gov/video/KSC-1969-MH-NAS01-0001-Apollo_12_Pinpoint_for_Science-B_425/KSC-1969-MH-NAS01-0001-Apollo_12_Pinpoint_for_Science-B_425~medium_4.jpg" group-title="Movies · NASA",Apollo 12: Pinpoint for Science (1969)
+https://images-assets.nasa.gov/video/KSC-1969-MH-NAS01-0001-Apollo_12_Pinpoint_for_Science-B_425/KSC-1969-MH-NAS01-0001-Apollo_12_Pinpoint_for_Science-B_425~large.mp4
+
+# Caminandes S01 E01 · Llama Drama (2013) ; CC BY 3.0 ; Pablo Vazquez, Beorn Leonard, Francesco Siddi; music and sound Jan Morgenstern | caminandes.com ; https://commons.wikimedia.org/wiki/File:Caminandes-_Llama_Drama_-_Short_Movie.ogv
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E01 · Llama Drama (2013)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/500px--Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.jpg" group-title="Series · Caminandes",Caminandes S01 E01 · Llama Drama (2013)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Caminandes-_Llama_Drama_-_Short_Movie.ogv/Caminandes-_Llama_Drama_-_Short_Movie.ogv.1080p.vp9.webm
+
+# Caminandes S01 E02 · Gran Dillama (2013) ; CC BY-SA 3.0 (as listed on Commons): may be shared unchanged with credit ; Blender Institute: Pablo Vazquez, Beorn Leonard, Francesco Siddi; soundtrack Jan Morgenstern ; https://commons.wikimedia.org/wiki/File:Caminandes,_Gran_Dillama_-_Blender_Foundation.webm
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E02 · Gran Dillama (2013)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/500px--Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.jpg" group-title="Series · Caminandes",Caminandes S01 E02 · Gran Dillama (2013)
+https://upload.wikimedia.org/wikipedia/commons/8/8b/Caminandes%2C_Gran_Dillama_-_Blender_Foundation.webm
+
+# Caminandes S01 E03 · Llamigos (2016) ; CC BY 3.0 ; Blender Institute; music Torin Borrowdale, sound Sander Houtman ; https://commons.wikimedia.org/wiki/File:Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm
+#EXTINF:-1 tvg-id="" tvg-name="Caminandes S01 E03 · Llamigos (2016)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/500px--Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.jpg" group-title="Series · Caminandes",Caminandes S01 E03 · Llamigos (2016)
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm
+
+# Apollo Digest S01 E01 · Testing Apollo ; 1960s NASA film series (NASA Armstrong archive), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/NDTV000907_Apollo_Digest_Series_Testing_Apollo
+#EXTINF:-1 tvg-id="" tvg-name="Apollo Digest S01 E01 · Testing Apollo" tvg-logo="https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~medium.jpg" group-title="Series · Apollo Digest (NASA)",Apollo Digest S01 E01 · Testing Apollo
+https://images-assets.nasa.gov/video/NDTV000907_Apollo_Digest_Series_Testing_Apollo/NDTV000907_Apollo_Digest_Series_Testing_Apollo~large.mp4
+
+# Apollo Digest S01 E02 · Spacecraft for Apollo ; 1960s NASA film series (NASA Armstrong archive), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo
+#EXTINF:-1 tvg-id="" tvg-name="Apollo Digest S01 E02 · Spacecraft for Apollo" tvg-logo="https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~medium.jpg" group-title="Series · Apollo Digest (NASA)",Apollo Digest S01 E02 · Spacecraft for Apollo
+https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~large.mp4
+
+# Apollo Digest S01 E03 · Saturn Third Stage ; 1960s NASA film series (NASA Armstrong archive), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/NDTV000909_Apollo_Digest_Series_SATURN_THIRD_STAGE
+#EXTINF:-1 tvg-id="" tvg-name="Apollo Digest S01 E03 · Saturn Third Stage" tvg-logo="https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~medium.jpg" group-title="Series · Apollo Digest (NASA)",Apollo Digest S01 E03 · Saturn Third Stage
+https://images-assets.nasa.gov/video/NDTV000909_Apollo_Digest_Series_SATURN_THIRD_STAGE/NDTV000909_Apollo_Digest_Series_SATURN_THIRD_STAGE~large.mp4
+
+# Apollo Digest S01 E04 · Mission Control ; 1960s NASA film series (NASA Armstrong archive), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/NDTV000910_Apollo_Digest_Series_Mission_Control
+#EXTINF:-1 tvg-id="" tvg-name="Apollo Digest S01 E04 · Mission Control" tvg-logo="https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~medium.jpg" group-title="Series · Apollo Digest (NASA)",Apollo Digest S01 E04 · Mission Control
+https://images-assets.nasa.gov/video/NDTV000910_Apollo_Digest_Series_Mission_Control/NDTV000910_Apollo_Digest_Series_Mission_Control~large.mp4
+
+# Apollo Digest S01 E05 · The Lunar Module ; 1960s NASA film series (NASA Armstrong archive), US federal government work: public domain in the US (NASA Media Usage Guidelines) ; NASA ; https://images.nasa.gov/details/NDTV000948_Apollo_Digest_Series_The_Lunar_Module
+#EXTINF:-1 tvg-id="" tvg-name="Apollo Digest S01 E05 · The Lunar Module" tvg-logo="https://images-assets.nasa.gov/video/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo/NDTV000908_Apollo_Digest_Series_Spacecraft%20for%20Apollo~medium.jpg" group-title="Series · Apollo Digest (NASA)",Apollo Digest S01 E05 · The Lunar Module
+https://images-assets.nasa.gov/video/NDTV000948_Apollo_Digest_Series_The_Lunar_Module/NDTV000948_Apollo_Digest_Series_The_Lunar_Module~large.mp4
